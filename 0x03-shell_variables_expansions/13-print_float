@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $((number_format($(($NUM)), 2)))
